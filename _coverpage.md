@@ -1,12 +1,12 @@
 ![logo](_media/icon.svg)
 
-# docsify <small>4.13.0</small>
+# 69 <small>wow</small>
 
-> A magical documentation site generator.
+> 我是69
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- 聪明
+- 勇敢
+- 有力气
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+[GitHub](https://github.com/sp69ke)
+[Getting Started](#69)
